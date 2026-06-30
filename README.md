@@ -1,14 +1,5 @@
 <!-- berenddeboer/berenddeboer profile README -->
 <div align="center">
-  <a href="https://commit-history.com/berenddeboer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/berenddeboer?theme=dark" />
-      <img alt="berenddeboer's commit history" src="https://commit-history.com/embed/berenddeboer" />
-    </picture>
-  </a>
-
-  <br />
-
   <h3>📊 Global Rank: #1,367</h3>
 
   <table>
@@ -25,4 +16,13 @@
       <td align="center">May 2026<br>850 contributions</td>
     </tr>
   </table>
+
+  <br />
+
+  <a href="https://commit-history.com/berenddeboer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/berenddeboer?theme=dark" />
+      <img alt="berenddeboer's commit history" src="https://commit-history.com/embed/berenddeboer" />
+    </picture>
+  </a>
 </div>
